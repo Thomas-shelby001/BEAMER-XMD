@@ -95,7 +95,6 @@ Fast • Stable • Powerful • Stylish
 
 </div>
 
-```bash
 git clone https://github.com/Thomas-shelby001/BEAMER-XMD
 cd BEAMER-XMD
 npm install
