@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/6te1lp.png" width="100%" />
 </p><h1 align="center">🚗 BEAMER-XMD</h1>
 <p align="center">
-  <b>Premium Car Inspired WhatsApp Multi Device Bot</b><br>
+  Premium Car Inspired WhatsApp Multi Device Bot  
   Fast • Stable • Powerful • Stylish
 </p><p align="center">
   <img src="https://img.shields.io/github/stars/Thomas-shelby001/BEAMER-XMD?style=for-the-badge" />
@@ -13,35 +13,26 @@
 🚀 FEATURES
 
 - ⚡ Fast & Lightweight
-- 🤖 Multi Device Support
-- 🚗 Car Inspired UI
-- 🎵 Media Downloader
+- 🤖 Multi Device WhatsApp Bot
+- 🚗 Car Inspired Theme
+- 🎵 Downloader Commands
+- 👑 Owner Controls
 - 💬 Auto Reply
-- 👑 Owner Commands
-- 🔍 Search Commands
-- 🎮 Fun Commands
 - 🧠 AI Commands
+- 🎮 Fun Commands
 - 📱 Group & Private Support
 
 ---
 
-🔑 SESSION OPTIONS
+🔑 SESSION GENERATORS
 
 <p align="center">
-  <a href="https://beamer-xmd-session.onrender.com">
+  <a href="https://sesssion.onrender.com/">
     <img title="PAIR CODE" src="https://img.shields.io/badge/PAIR-CODE-green?style=for-the-badge&logo=whatsapp">
   </a>
 </p><p align="center">
-  <a href="https://beamer-xmd-session.onrender.com/qr">
-    <img title="QR CODE" src="https://img.shields.io/badge/QR-CODE-blue?style=for-the-badge&logo=whatsapp">
-  </a>
-</p><p align="center">
-  <a href="#">
-    <img title="MEGA SESSION" src="https://img.shields.io/badge/MEGA-SESSION-purple?style=for-the-badge">
-  </a>
-</p><p align="center">
-  <a href="#">
-    <img title="BASE64 SESSION" src="https://img.shields.io/badge/BASE64-SESSION-orange?style=for-the-badge">
+  <a href="https://peaky-blinders-bot-85f8a16a45bc.herokuapp.com/">
+    <img title="BASE64 SESSION" src="https://img.shields.io/badge/BASE64-SESSION-orange?style=for-the-badge&logo=heroku">
   </a>
 </p>---
 
@@ -62,6 +53,28 @@
   </a>
 </p>---
 
+☁️ KATABUMP DEPLOYMENT
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Deploy-Katabump-ff69b4?style=for-the-badge">
+  </a>
+</p>---
+
+🖥️ BOT HOSTING
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Host-Render-000000?style=for-the-badge&logo=render">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Host-Heroku-430098?style=for-the-badge&logo=heroku">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Host-Railway-0B0D0E?style=for-the-badge&logo=railway">
+  </a>
+</p>---
+
 📦 INSTALLATION
 
 git clone https://github.com/Thomas-shelby001/BEAMER-XMD
@@ -71,21 +84,19 @@ npm start
 
 ---
 
-⚙️ OWNER
+👤 OWNER
 
-👤 Mr Lee Tech
-🚗 BEAMER XMD Creator
-📱 WhatsApp Bot Developer
+Mr Lee Tech
+WhatsApp Bot Developer
+BEAMER-XMD Creator
 
 ---
 
 ⭐ SUPPORT
 
-If you like this project:
-
 ⭐ Star the repo
 🍴 Fork the repo
-📢 Share with friends
+📢 Share with others
 
 ---
 
@@ -96,5 +107,5 @@ This bot is for educational purposes only. Misuse may lead to WhatsApp ban.
 ---
 
 <p align="center">
-  🚗 BEAMER XMD — Built for Speed & Style
+🚗 BEAMER-XMD — Built For Speed & Style
 </p>
