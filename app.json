@@ -1,19 +1,45 @@
 {
   "name": "BEAMER XMD",
-  "description": "A multidevice whatsap bot inspired by BMW",
+  "description": "A multi-device WhatsApp bot inspired by BMW performance and luxury styling.",
   "repository": "",
-  "keywords": ["whatsapp", "Cars"],
+  "keywords": ["whatsapp", "bot", "multi-device", "automation", "cars"],
+  "logo": "",
+  "success_url": "/",
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
     }
   ],
   "env": {
-    "SESSION_ID": {
-      "description": "mega.nz and base64 string",
-      "required": false,
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number in international format (e.g. 2547XXXXXXXX). This is required for bot owner permissions.",
+      "required": true,
       "value": ""
+    },
+    "SESSION_ID": {
+      "description": "Session string (Mega.nz link or Base64 session key used to authenticate WhatsApp connection).",
+      "required": true,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "Command prefix for bot commands (e.g. ! or . or #).",
+      "required": false,
+      "value": "."
+    },
+    "BOT_NAME": {
+      "description": "Display name of the bot.",
+      "required": false,
+      "value": "BEAMER XMD"
+    },
+    "AUTO_READ": {
+      "description": "Enable or disable auto-read messages (true/false).",
+      "required": false,
+      "value": "true"
+    },
+    "MODE": {
+      "description": "Bot mode: private or public.",
+      "required": false,
+      "value": "public"
     }
   }
 }
-
