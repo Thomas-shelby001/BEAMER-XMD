@@ -2,7 +2,7 @@
 
 # 🚗 BEAMER-XMD
 
-<a><img src="https://files.catbox.moe/6te1lp.png"/></a>
+<img src="https://files.catbox.moe/6te1lp.png"/>
 
 ### Premium Car Inspired WhatsApp Multi-Device Bot  
 Fast • Stable • Powerful • Stylish
@@ -15,50 +15,61 @@ Fast • Stable • Powerful • Stylish
 
 ---
 
+<div align="center">
+
 ## 🚀 Fork & Star
 
-<p align="center">
 <a href="https://github.com/Thomas-shelby001/BEAMER-XMD/fork">
 <img src="https://img.shields.io/badge/FORK%20REPO-000000?style=for-the-badge&logo=github">
 </a>
-</p>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🔑 SESSION GENERATOR
 
-<p align="center">
 <a href="https://sesssion.onrender.com/">
 <img src="https://img.shields.io/badge/PAIR%20CODE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
-</p>
 
-<p align="center">
+<br><br>
+
 <a href="https://peaky-blinders-bot-85f8a16a45bc.herokuapp.com/">
 <img src="https://img.shields.io/badge/BASE64%20SESSION-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
-</p>
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🚀 DEPLOY OPTIONS
 
-### Deploy on Heroku
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Thomas-shelby001/BEAMER-XMD">
 <img src="https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
 
-### Deploy on Koyeb
+<br><br>
+
 <a href="https://app.koyeb.com/services/deploy?type=git&repository=Thomas-shelby001/BEAMER-XMD&ports=3000">
 <img src="https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white">
 </a>
 
-### Deploy on Render
+<br><br>
+
 <a href="https://dashboard.render.com/web/new">
 <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white">
 </a>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ☁️ PANEL DEPLOY
 
@@ -66,55 +77,24 @@ Fast • Stable • Powerful • Stylish
 <img src="https://img.shields.io/badge/BotHosting-8A2BE2?style=for-the-badge">
 </a>
 
+<br><br>
+
 <a href="https://dashboard.katabump.com/auth/login#5651c1">
 <img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge">
 </a>
 
----
-
-## 📦 INSTALLATION
-
-git clone https://github.com/Thomas-shelby001/BEAMER-XMD
-cd BEAMER-XMD
-npm install
-npm start
-
----
-
-## ⚡ COMMANDS
-
-| Command | Description |
-|---------|-------------|
-| .ping | Check bot speed |
-| .menu | Show menu |
-| .play | Download music |
-| .video | Download videos |
-| .ai | AI chat |
-| .owner | Owner info |
-
----
-
-## 👤 OWNER
-
-SANG LEE  
-WhatsApp Bot Developer  
-BEAMER-XMD Creator  
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254116266407)
-[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)](https://github.com/Thomas-shelby001)
-
----
-
-## ⭐ SUPPORT
-
-⭐ Star the repo  
-🍴 Fork the repo  
-📢 Share with friends  
+</div>
 
 ---
 
 <div align="center">
 
-🚗 BEAMER-XMD — Built For Speed & Style  
+## 📦 INSTALLATION
 
 </div>
+
+```bash
+git clone https://github.com/Thomas-shelby001/BEAMER-XMD
+cd BEAMER-XMD
+npm install
+npm start
