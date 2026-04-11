@@ -1,5 +1,5 @@
 {
-  "name": "BEAMER XMD 🚘",
+  "name": "BEAMER XMD",
   "description": "A multi-device WhatsApp bot inspired by BMW performance and luxury styling.",
   "repository": "",
   "keywords": ["whatsapp", "bot", "multi-device", "automation", "cars"],
@@ -31,15 +31,25 @@
       "required": false,
       "value": "BEAMER XMD"
     },
-    "AUTO_READ": {
-      "description": "Enable or disable auto-read messages (true/false).",
-      "required": false,
-      "value": "true"
-    },
     "MODE": {
       "description": "Bot mode: private or public.",
       "required": false,
       "value": "public"
+    },
+    "STATUS_REACTIONS": {
+      "description": "Comma-separated emojis used for auto reacting to WhatsApp statuses.",
+      "required": false,
+      "value": "⚡,🏎️,🔥,💎,🖤,🚀,😈,👑,💥,🥶"
+    },
+    "ANTI_SPAM": {
+      "description": "Prevents users from spamming commands in chats.",
+      "required": false,
+      "value": "true"
+    },
+    "AUTO_STATUS_REACT": {
+      "description": "Automatically reacts to WhatsApp status updates.",
+      "required": false,
+      "value": "true"
     }
   }
 }
