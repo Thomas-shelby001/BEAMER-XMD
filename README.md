@@ -24,7 +24,7 @@ Fast • Stable • Powerful • Stylish
 👉 Open `settings.js`  
 👉 Add your **SESSION ID**  
 👉 Add your **WhatsApp NUMBER**  
-👉 Save file and restart bot
+👉 Save file 
 
 </div>
 
