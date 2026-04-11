@@ -1,0 +1,19 @@
+{
+  "name": "BEAMER XMD",
+  "description": "A multidevice whatsap bot inspired by BMW",
+  "repository": "",
+  "keywords": ["whatsapp", "Cars"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "env": {
+    "SESSION_ID": {
+      "description": "mega.nz and base64 string",
+      "required": false,
+      "value": ""
+    }
+  }
+}
+
