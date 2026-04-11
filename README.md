@@ -1,5 +1,3 @@
-Here’s everything in ONE code block, fully centered. Copy the whole thing into README.md 👇
-
 <div align="center">
 
 # 🚗 BEAMER-XMD
@@ -19,7 +17,7 @@ Fast • Stable • Powerful • Stylish
 
 <div align="center">
 
-## 🚀 Fork & Star
+## 🚀 FORK & STAR
 
 <a href="https://github.com/Thomas-shelby001/BEAMER-XMD/fork">
 <img src="https://img.shields.io/badge/FORK%20REPO-000000?style=for-the-badge&logo=github">
@@ -91,57 +89,55 @@ Fast • Stable • Powerful • Stylish
 
 <div align="center">
 
-## 📦 INSTALLATION
+## ⚡ COMMANDS
+
+| Command | Description |
+|---------|-------------|
+| .ping | Check bot speed |
+| .menu | Show menu |
+| .play | Download music |
+| .video | Download videos |
+| .ai | AI chat |
+| .owner | Owner info |
 
 </div>
 
-git clone https://github.com/Thomas-shelby001/BEAMER-XMD
-cd BEAMER-XMD
-npm install
-npm start
-
-
 ---
 
-<div align="center">⚡ COMMANDS
+<div align="center">
 
-Command	Description
+## 👤 OWNER
 
-.ping	Check bot speed
-.menu	Show menu
-.play	Download music
-.video	Download videos
-.ai	AI chat
-.owner	Owner info
+SANG LEE  
+WhatsApp Bot Developer  
+BEAMER-XMD Creator  
 
+<br>
 
-</div>
----
-
-<div align="center">👤 OWNER
-
-SANG LEE
-WhatsApp Bot Developer
-BEAMER-XMD Creator
-
-<br><a href="https://wa.me/254116266407">
+<a href="https://wa.me/254116266407">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a><br><br>
-
-<a href="https://github.com/Thomas-shelby001">
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github">
-</a></div>
----
-
-<div align="center">⭐ SUPPORT
-
-⭐ Star the repo
-🍴 Fork the repo
-📢 Share with friends
+</a>
 
 <br><br>
 
-🚗 BEAMER-XMD — Built For Speed & Style
+<a href="https://github.com/Thomas-shelby001">
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github">
+</a>
 
 </div>
-```
+
+---
+
+<div align="center">
+
+## ⭐ SUPPORT
+
+⭐ Star the repo  
+🍴 Fork the repo  
+📢 Share with friends  
+
+<br><br>
+
+🚗 BEAMER-XMD — Built For Speed & Style  
+
+</div>
