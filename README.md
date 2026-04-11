@@ -19,7 +19,7 @@ Fast • Stable • Powerful • Stylish
 
 ## ⚠️ IMPORTANT SETUP
 
-### 🔑 BEFORE RUNNING THE BOT
+### 🔑 BEFORE RUNNING THE BOT PANEL USERS
 
 👉 Open `settings.js`  
 👉 Add your **SESSION ID**  
