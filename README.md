@@ -17,6 +17,21 @@ Fast • Stable • Powerful • Stylish
 
 <div align="center">
 
+## ⚠️ IMPORTANT SETUP
+
+### 🔑 BEFORE RUNNING THE BOT
+
+👉 Open `settings.js`  
+👉 Add your **SESSION ID**  
+👉 Add your **WhatsApp NUMBER**  
+👉 Save file and restart bot
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🚀 FORK & STAR
 
 <a href="https://github.com/Thomas-shelby001/BEAMER-XMD/fork">
