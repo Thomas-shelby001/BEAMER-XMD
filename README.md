@@ -98,3 +98,27 @@ git clone https://github.com/Thomas-shelby001/BEAMER-XMD
 cd BEAMER-XMD
 npm install
 npm start
+
+## 👤 OWNER
+
+SANG LEE  
+WhatsApp Bot Developer  
+BEAMER-XMD Creator  
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254116266407)
+[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)](https://github.com/Thomas-shelby001)
+
+---
+
+## ⭐ SUPPORT
+
+⭐ Star the repo  
+🍴 Fork the repo  
+📢 Share with friends  
+
+---
+
+<div align="center">
+
+🚗 BEAMER-XMD — Built For Speed & Style  
+
