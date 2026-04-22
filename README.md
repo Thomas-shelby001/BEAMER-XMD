@@ -2,7 +2,7 @@
 
 # 🚗 BEAMER-XMD
 
-<img src="https://files.catbox.moe/6te1lp.png"/>
+<img src="https://i.imgur.com/hSWYlr3.jpeg"/>
 
 ### Premium Car Inspired WhatsApp Multi-Device Bot  
 Fast • Stable • Powerful • Stylish
