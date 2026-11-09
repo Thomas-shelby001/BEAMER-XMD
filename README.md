@@ -48,7 +48,7 @@
 
 <div align="center">
   <h3>🔑 SESSION GENERATOR</h3>
-  <a href="https://peaky-blinder-session-ltjo.onrender.com">
+  <a href="https://cmvs7f757069vmf9stfbbmysv.bots.stiantech.me/">
     <img src="https://img.shields.io/badge/PAIR%20CODE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pair Code"/>
   </a><br/><br/>
   <a href="https://sesssion.onrender.com/">
